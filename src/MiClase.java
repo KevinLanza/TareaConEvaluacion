@@ -1,4 +1,9 @@
 
+//Este trabajo se realizo en grupo: Maynor Morales, Adalid Solis, Junior Zelaya y Kevin Lanza
+
+
+
+
 public class MiClase
 {
 	//devuelve la suma de a y b
